@@ -1,6 +1,6 @@
 # MVVM in Swift
 
-***
+
 
 ![platform](https://img.shields.io/badge/platform-iOS-orange)
 [![GitHub license](https://img.shields.io/badge/License-Apache2.0-blue.svg)](LICENSE)
@@ -11,6 +11,8 @@ MVVM stand for Model-View-ViewModel. It's a different way to arrange responsibil
  ### Why MVVM ? ### 
 -  MVVM is the steps towards future of apps. MVVM allows the application to be easily maintainable.
 -  MVVM allows us to break down the application in smaller components.
+
+***
 
  ### Model ### 
 
@@ -24,6 +26,7 @@ MVVM stand for Model-View-ViewModel. It's a different way to arrange responsibil
 
 - That's the new home for most of your usual controller codes. The view model layer will request the data from the modal layer ( it can be local access to the database or network layer) and pass it back to the view, formatted in the way it will be displayed. But it's a two-way mechanism: user input when necessary will also get through the view model layer to update the model. 
 
+***
 
  ### View Model vs Model ### 
  * View Model
