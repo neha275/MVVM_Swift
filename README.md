@@ -35,3 +35,5 @@ MVVM stand for Model-View-ViewModel. It's a different way to arrange responsibil
       * In Model class we generally performed the actual logic
       
  ### MVVM Flow ### 
+ 
+![MVVM Flow](https://github.com/neha275/MVVM_Swift/blob/main/MVVM.png)
